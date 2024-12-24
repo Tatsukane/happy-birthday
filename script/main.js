@@ -1,3 +1,4 @@
+console.log("Em thích chị. Chị làm người yêu em nhé ?")
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
